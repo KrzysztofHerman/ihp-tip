@@ -2,7 +2,7 @@
     "info": {
         "name": "ihp-tip",
         "description": "test ihp IP",
-        "repo": "<src repo>",
+        "repo": "https://github.com/KrzysztofHerman/ihp-tip.git",
         "owner": "KrzysztofHerman",
         "license": "Apache 2.0",
         "author": "Krzysztof Herman",
