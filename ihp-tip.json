@@ -1,0 +1,30 @@
+{
+    "info": {
+        "name": "ihp-tip",
+        "description": "test ihp IP",
+        "repo": "<src repo>",
+        "owner": "KrzysztofHerman",
+        "license": "Apache 2.0",
+        "author": "Krzysztof Herman",
+        "email": "herman@ihp-microelectronics.com",
+        "version": "1.0.0",
+        "date": "23.07.2024",
+        "category": "ams",
+        "tags": [
+            "test"
+        ],
+        "bus": [
+            "generic"
+        ],
+        "type": "hard",
+        "status": "SI Validated",
+        "cell_count": "1",
+        "width": "100 um",
+        "height": "200 um",
+        "technology": "sg13g2",
+        "clock_freq_mhz": "20 MHz",
+        "supply_voltage": [
+            "1.2"
+        ]
+    }
+}
